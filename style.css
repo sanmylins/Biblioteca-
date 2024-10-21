@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+    position: relative;
+    height: 40px;
+    bottom: -60px;
+    font-size: 120%;
+    color: rgb(255, 255, 255);
+   
+}
+body{
+    background-color: rgba(5, 92, 254, 0.54);
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+form{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+button{
+  text-decoration: aliceblue;
+  background-color: rgb(89, 2, 27);
+  color: white;
+}
